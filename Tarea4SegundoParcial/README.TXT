@@ -19,7 +19,7 @@ HOW TO START THIS PROJECT:
 AUTHORS: Marcelo Oscar Cardozo Cadima
 USER INSTRUCTIONS:
 
-- Toda persona tiene un nombre, vida y una cantidad de dinero en 
+- Toda persona tiene un nombre, puntos de vida y una cantidad de dinero en 
  monedas de oro.
 - Tambien puede mostrar su nombre, la cantidad de vida que tiene y 
  la cantidad de dinero.
