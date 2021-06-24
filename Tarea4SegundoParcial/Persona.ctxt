@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Toda\ persona\ tiene\ un\ nombre,\ vida\ y\ una\ cantidad\ de\ dinero\r\n\ en\ monedas\ de\ oro.\r\n\ Tambien\ puede\ mostrar\ su\ nombre,\ la\ cantidad\ de\ vida\ que\ tiene\ y\r\n\ la\ cantidad\ de\ dinero.\r\n\ \r\n\ Marcelo\ O.\ C.\ cadima\ \r\n\ 23/06/2021\r\n
+comment1.params=Nombre\ Vida\ Dinero
+comment1.target=Persona(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ GetNombre()
+comment3.params=
+comment3.target=int\ GetVida()
+comment4.params=
+comment4.target=java.lang.String\ GetDinero()
+numComments=5

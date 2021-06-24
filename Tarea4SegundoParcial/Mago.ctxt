@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mago
+comment0.text=\r\n\ Un\ mago\ es\ una\ Persona,\ este\ hereda\ sus\ atributos\ ademas\ de\ tener\r\n\ los\ suyos\ propios\ como\ el\ nombre\ de\ su\ hechizo,\ dos\ booleans\ para\ \r\n\ el\ estado\ de\ si\ pago\ un\ asesino\ o\ defensor.\r\n\ Mago\ tiene\ sus\ metodos\ como\ mostrar\ pagodefensor\ y\ pagoasesino,\ \r\n\ tambien\ el\ de\ contratar\ un\ defensor\ o\ un\ asesino\r\n\ \r\n\ Marcelo\ O.\ C.\ Cadima\ \r\n\ 23/06/2021\r\n
+comment1.params=Nombre\ Vida\ Dinero\ Hechizo
+comment1.target=Mago(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=Otro
+comment2.target=java.lang.String\ contratarDefensor(Defensor)
+comment3.params=Otro\ Objetivo
+comment3.target=java.lang.String\ contratarAsesino(Asesino,\ Mago)
+comment4.params=
+comment4.target=boolean\ GetDefensor()
+comment5.params=
+comment5.target=boolean\ GetAsesino()
+numComments=6

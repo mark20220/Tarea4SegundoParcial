@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Asesino
+comment0.text=\r\n\ Un\ asesino\ es\ una\ persona\ entonces\ hereda\ sus\ atributos,\ ademas\r\n\ tiene\ sus\ propios\ atributos\ llamado\ da\u00F1o\ de\ su\ arma\ y\ pago\ \r\n\ por\ sus\ servicios\ de\ asesino.\r\n\ \r\n\ asesino\ tiene\ su\ propio\ metodo\ llamado\ asesinar\ pidiendo\ dos\ magos,\r\n\ uno\ que\ hara\ el\ encargo\ y\ el\ nombre\ del\ mago\ a\ ejecutar.\r\n\ y\ puede\ mostrar\ pago.\r\n\ \r\n\ Marcelo\ O.\ C.\ Cadima\ \r\n\ 23/06/2021\r\n
+comment1.params=Nombre\ Vida\ Dinero\ Da\u00F1o\ Pago
+comment1.target=Asesino(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=Otro\ Victima
+comment2.target=java.lang.String\ Asesinar(Mago,\ Mago)
+comment3.params=
+comment3.target=int\ GetPago()
+numComments=4

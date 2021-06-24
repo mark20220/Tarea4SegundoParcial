@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Defensor
+comment0.text=\r\n\ Un\ Defensor\ es\ una\ persona\ y\ hereda\ sus\ atributos,\ ademas\r\n\ tiene\ armadura\ y\ un\ precio\ por\ sus\ servicios\ llamado\ pago.\r\n\ \r\n\ Tiene\ un\ metodo\ propio\ llamado\ Proteger,\ pidiendo\ el\ nombre\ del\ mago\r\n\ y\ mostrar\ pago\ que\ el\ precio\ de\ sus\ servicios.\r\n\ \r\n\ Marcelo\ O.\ C.\ Cadima\r\n\ 23/03/2021\r\n
+comment1.params=Nombre\ Vida\ Dinero\ Armadura\ Pago
+comment1.target=Defensor(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=Otro
+comment2.target=java.lang.String\ Proteger(Mago)
+comment3.params=
+comment3.target=int\ GetPago()
+numComments=4
